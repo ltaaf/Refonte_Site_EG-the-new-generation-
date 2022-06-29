@@ -42,7 +42,7 @@
         <img src="../assets/img/programme/7e3cf5_1bf9061858e94ebcb3fc02b10854d987_mv2.png" alt="" srcset="">
         <!-- <h1 class="display-4 fw-normal">Punny headline</h1>
         <p class="lead fw-normal">And an even wittier subheading to boot. Jumpstart your marketing efforts with this example based on Apple’s marketing pages.</p> -->
-        <a class="btn  btn-primary" style="margin-top: -75%;" href="#">POSTULER MAINTENANT</a>
+        <a class="btn  btn-primary" style="margin-top: -75%;" href="#postuler">POSTULER MAINTENANT</a>
       </div>
       <div class="product-device shadow-sm d-none d-md-block"></div>
       <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
@@ -377,19 +377,19 @@
 
   <!-- ============================================= FORMUALIRE POSTULEZ DEBUT ==================================================== -->
 
-  <div class="row row-cols-1 container card mb-4 rounded-3 shadow-sm card-header py-3 my-0 fw-normal">
+  <div class="row row-cols-1 container card mb-4 rounded-3 shadow-sm card-header py-3 my-0 fw-normal" style="margin: 0 auto; " id="postuler">
 
   <fieldset>
-    <legend>Postulez</legend>
-    <form class="form-group" action="postule.php" >
+    <legend style="text-align: center;">Postulez</legend>
+    <form class="form-group"  method="post" >
       <div class="col-sm-6 mb-3 mb-sm-0">
         <label for="" class="form-label">Prénoms</label>
-        <input type="email"  name="prenom"   placeholder="Prénom" class="form-control">
+        <input type="text"  name="prenom"   placeholder="Prénom" class="form-control">
       </div>
   
       <div class="col-sm-6 mb-3 mb-sm-0">
         <label for="" class="form-label">Nom</label>
-        <input type="email"  placeholder="nom" name="nom" class="form-control"  >
+        <input type="text"  placeholder="nom" name="nom" class="form-control"  >
       </div>
   
       <div class="mb-3">
@@ -413,7 +413,7 @@
   
       <div class="mb-3">
         <label for="" class="form-label">Numéro de téléphone (avec indicatif)</label>
-        <input type="email" placeholder="00228 xxxxxxxx" name="numero" class="form-control"  >
+        <input type="text" placeholder="00228 xxxxxxxx" name="numero" class="form-control"  >
       </div>
   
       <div class="mb-3">
@@ -457,7 +457,7 @@
       <button type="submit" class="btn btn-primary btn-container" name="okpostule">ENVOYER</button>
     </form>
   </fieldset>
-<?php include ("postule.php"); ?>
+
 
 </div>
 
@@ -468,5 +468,6 @@
 
 <!-- importation du pied de page  -->
 <?php include("footer.php") ?>
+<?php if(isset($_POST['okpostule'])){include ("postule.php");}  ?>
 </body>
 </html>
