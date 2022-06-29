@@ -24,3 +24,16 @@ Outils:
   - FileZilla
  
  Structure des fichiers 
+ /htdocs
+  -index.php
+  /pages
+    -ajout.php
+    -blog.php
+    -connexion.php
+    -energy_space.php
+    -footer.php
+    -mentor.php
+    -menu.php
+    -postule.php
+    -programme.php
+  /assets
