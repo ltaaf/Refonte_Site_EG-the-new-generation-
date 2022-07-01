@@ -10,7 +10,7 @@ require_once('connexion.php');
 
 if (isset($ok)){
 
-      if($terms1 && $terms2){
+      if($terms1 || $terms2){
         $sql = "INSERT INTO `newsletter` (`id_abonne`, `pseudo`, `email`) VALUES (NULL, '$name', '$email')";
 
         if ($conn->query($sql) === TRUE) {
@@ -24,7 +24,7 @@ if (isset($ok)){
       }
       else{
         // echo "les informations saisies ne sont pas correctes";
-        echo '<script> alert("Informations non enregistrées");</script>';
+        echo '<script> alert("Vous devez saisir une des langues");</script>';
       }
 
 }

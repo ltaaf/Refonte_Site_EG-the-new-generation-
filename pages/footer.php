@@ -1,6 +1,3 @@
-<!-- Appelle de la page gestion nouveau abonné -->
-<!-- <?php include ("ajout_abonne.php"); ?> -->
-
 
 <main id="main">
 
@@ -85,7 +82,7 @@
       </div>
     </section>
     <!-- End Contact Section -->
-
+    <?php if(isset($_POST['sub'])){include ("ajout_abonne.php");}  ?>
   
 </main>
 <!-- End #main -->

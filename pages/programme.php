@@ -107,8 +107,8 @@
 <div class="" style="text-align: center; color: #eb4f1c;" >
   <h5 class="" style="background-color: aqua;">DEVIENS ENTREPRENEUR(E) du secteur de l'ÉNERGIE grâce à notre programme 3 en 1 unique en Afrique </h5>
 </div>
-
-    <div class="card-group" >
+<br>
+    <div class="card-group container" >
 
       <div class="card">
         <!-- <img src="..." class="card-img-top" alt="..."> -->
@@ -166,9 +166,9 @@
         
     </div>
 
-    <div class="card text-center" style="margin-top: 5%;">
+    <div class="card  container" >
       <div class="card-body">
-        <h5 class="card-title" style="margin-bottom: 2%;">Une formation pratique et professionnalisante</h5>
+        <h5 class="card-title text-center" >Une formation pratique et professionnalisante</h5> <br>
         <p class="card-text">Chaque année, Energy Generation a l'honneur de recevoir des professeurs et des formateurs expérimentés mais aussi des intervenants 
           venant des entreprises leaders mondiales du secteur de l’énergie telles que ENGIE, Schneider Electric ou encore EDF..</p>
         <p class="card-text"> Passionnés par la problématique de la tradition énergétique en Afrique, l'entreprenariat et l'innovation et grâce à leur volonté de 
@@ -463,11 +463,11 @@
 
   <!-- ============================================= FORMUALIRE POSTULEZ FIN ==================================================== -->
 
-  <!-- fin contenu programme -->
-
+  <!-- validation formulaire postule -->
+<?php if(isset($_POST['okpostule'])){include ("postule.php");}  ?>
 
 <!-- importation du pied de page  -->
 <?php include("footer.php") ?>
-<?php if(isset($_POST['okpostule'])){include ("postule.php");}  ?>
+
 </body>
 </html>

@@ -1,6 +1,6 @@
 <?php
-// include ("connexion.php");
-require_once('connexion.php');
+include ("connexion.php");
+// require_once('connexion.php');
 
 $nom = $_POST['nom'];
 $prenom = $_POST['prenom'];
@@ -21,7 +21,7 @@ if(isset($okpostule)){
   $sql = "INSERT INTO `postuler` (`id_postule`, `nom`, `penom`, `genre`, `email`, `numero`, `pays`, `niveau`, `thematique`, `campus`) VALUES (NULL, '$nom', '$prenom', '$genre', '$email', '$numero', '$pays', '$niveau', '$thematique', '$campus')";
   
   if (mysqli_query($conn, $sql)) {
-    echo "New record created successfully";
+    echo "Demande envoyer avec succès";
   } else {
     echo "Error: " . $sql . "<br>" . mysqli_error($conn);
   }
