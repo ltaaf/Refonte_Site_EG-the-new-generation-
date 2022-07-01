@@ -9,15 +9,13 @@
   <meta content="" name="description">
   <meta content="" name="keywords">
 
-  <!-- Favicons -->
-  <!-- <link href="assets/img/favicon.png" rel="icon"> -->
-  <link href="assets/img/logo.webp" rel="apple-touch-icon">
+  
+  
 
-  <!-- Google Fonts -->
+
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-  <!-- Vendor CSS Files -->
-  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"> -->
+ 
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -26,7 +24,7 @@
   <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-  <!-- CSS personnel -->
+  
   <link href="assets/css/style.css" rel="stylesheet">
 
 </head>
@@ -37,8 +35,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <!-- <h1><a href="index.php">ENERGY GENERATION</a></h1> -->
-        <!-- Uncomment below if you prefer to use an image logo -->
+        
         <a href="index.php"><img src="assets/img/logo.webp" alt="" class="img-fluid"></a>
       </div>
 
@@ -60,10 +57,12 @@
           <li><a class="getstarted scrollto" href="#contact">Newsletter</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+      </nav>
+      <!-- .navbar -->
 
     </div>
-  </header><!-- fin tete  -->
+  </header>
+  <!-- fin tete  -->
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
@@ -86,7 +85,8 @@
       </div>
     </div>
 
-  </section><!-- End Hero -->
+  </section>
+  <!-- End Hero -->
 
   <main id="main">
 
@@ -113,7 +113,6 @@
        
         <div class="col">
           <div class="card shadow-sm">
-            <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
             <img src="assets/img/EG_images/EG12.webp" alt="">
             <button class="btn btn-primary">VISION</button>
             <div class="card-body">
@@ -127,7 +126,6 @@
         <!-- 2 -->
         <div class="col">
           <div class="card shadow-sm">
-            <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
             <img src="assets/img/EG_images/EG1-.webp" alt="">
             <button class="btn btn-primary">MISSION</button>
             <div class="card-body">
@@ -141,7 +139,8 @@
         </div>
       
       
-    </section><!-- End About Us Section -->
+    </section>
+    <!-- End About Us Section -->
 
   
     <!-- ======= Services Section ======= -->
@@ -619,11 +618,12 @@
         </div>
       </div>
     </div>
-  </footer><!-- End Footer -->
+  </footer>
+  <!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
-  <!-- Vendor JS Files -->
+  <!-- Fichiers JS du fournisseur -->
   <script src="assets/vendor/purecounter/purecounter.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -632,7 +632,7 @@
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
   <script src="assets/vendor/php-email-form/validate.js"></script>
 
-  <!-- Template Main JS File -->
+  <!-- Modèle de fichier JS principal -->
   <script src="assets/js/main.js"></script>
 
 </body>

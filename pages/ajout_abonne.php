@@ -24,10 +24,9 @@ if (isset($ok)){
       }
       else{
         // echo "les informations saisies ne sont pas correctes";
-        echo '<script> alert("Vous devez saisir une des langues");</script>';
+        echo '<script> alert("Vous devez saisir une des langues");</script>'; 
       }
 
 }
-//echo '<script> alert("Informations non enregistrées");</script>'; 
 ?>
   

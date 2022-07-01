@@ -60,33 +60,11 @@
         </div>
       </div>
       
-      <!-- <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-        <div class="my-3 p-3">
-          <h2 class="display-5">Le saviez-vous ? </h2>
-
-        </div>
-        <div class=" shadow-sm mx-auto" style="width: 50px; height: 300px; border-radius: 21px 21px 0 0; background-color: #eb4f1c; color: #fff;">
-          <p class="lead">Aujourd'hui, plus de 600 millions de personnes n'ont pas accès à l'énergie en Afrique, 
-            1 personne sur 5 souffre encore 
-            de la faim, l'espérance de vie en Afrique est 14 années plus courte que la moyenne 
-            mondiale et 51% des jeunes au chômage à travers le monde sont africains.
-            C'EST DU DÉLIRE ! Il est temps que ça change.
-            Derrière chaque défi se cache une opportunité, alors prenons notre destin en main !  
-            Tu rêves de créer ton propre emploi tout en participant au développement de ton pays ?
-            La Business & Energy School forme les leaders de l'Afrique de demain dans les domaines 
-            de l'énergie, de l'innovation technologique et de l'entrepreneuriat..</p>
-        </div>
-      </div> -->
+     
     </div>
   
     <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
-      <!-- <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
-        <div class="my-3 p-3">
-          <h2 class="display-5">Le saviez-vous ? </h2>
-          <p class="lead">And an even wittier subheading.</p>
-        </div>
-        <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div>
-      </div> -->
+   
       <div class="bg-primary me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
         <div class="my-3 py-3">
           <h2 class="display-5">Le saviez-vous ? </h2>
@@ -100,7 +78,6 @@
             La Business & Energy School forme les leaders de l'Afrique de demain dans les domaines 
             de l'énergie, de l'innovation technologique et de l'entrepreneuriat..</p>
         </div>
-        <!-- <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div> -->
       </div>
     </div>
 <br>
@@ -111,30 +88,24 @@
     <div class="card-group container" >
 
       <div class="card">
-        <!-- <img src="..." class="card-img-top" alt="..."> -->
         <div class="card-body">
           <h5 class="card-title">1- INNOVATION</h5>
           <p class="card-text">Tu vas pouvoir te familiariser avec le développement de solutions techniques et technologiques au sein de notre makerspace et créer ton propre produit.</p>
           <p class="card-text">Notre programme unique, basé sur la théorie du Design Thinking du MIT, va te permettre de développer ton "Minimum Viable Product" d’un point de vue technique (prototype) et commercial (business model)</p>
-          <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
         </div>
       </div>
       <div class="card">
-        <!-- <img src="..." class="card-img-top" alt="..."> -->
         <div class="card-body">
           <h5 class="card-title">2- INCUBATION</h5>
           <p class="card-text">On t'accompagne pas à pas dans la création de ta start-up dans le secteur de l'énergie, de la santé ou de l'agribusiness, de l'idée jusqu'au lancement de ton produit sur le marché</p>
           <p class="card-text">De plus, en nous rejoignant tu bénéficies d'une opportunité d'obtenir un financement conçu spécifiquement pour accompagner l'amorçage et la commercialisation à grande échelle de ton projet à travers l'Energy Generation Seed Fund.</p>
-          <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
         </div>
       </div>
       <div class="card">
-        <!-- <img src="..." class="card-img-top" alt="..."> -->
         <div class="card-body">
           <h5 class="card-title">3- FORMATION</h5>
           <p class="card-text">En parallèle, tu prépares un diplôme international délivré à distance par Ascencia Business School, membre du Collège de Paris.</p>
           <p class="card-text">Ce programme de formation innovant te permet d'acquérir de solides connaissances en gestion d'entreprise et gestion de projet.</p>
-          <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
         </div>
       </div>
     </div>
@@ -175,7 +146,6 @@
           transmettre leur savoir, ils garantissent à notre École un corps enseignant de niveau international, à même de former les leaders de l’Afrique de demain.</p>
         <p class="card-text"> Aussi bien à travers des cours magistraux que les travaux pratiques et dirigés, sans oublier l’accompagnement personnalisé pour le 
           développement de votre solution technique, notre équipe pédagogique sera omniprésente pour vous accompagner tout au long de votre parcours et sur tous les aspects de votre projet.</p>
-        <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
       </div>
     </div>
 
@@ -185,9 +155,7 @@
         <div class="carousel-item active">
           <img src="../assets/img/programme/12ae07_bc13d53eaaae4f368787e9966e5dab2c_mv2.jpg" class="d-block w-100" alt="...">
         </div>
-        <!-- <div>
-          <img src="../assets/img/programme/7e3cf5_1d83f136a2f949c2b0c9b7b017e60061_mv2.webp" alt="" srcset="">
-        </div> -->
+       
       </div>
     </div>
 
@@ -199,84 +167,72 @@
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/7e3cf5_1d83f136a2f949c2b0c9b7b017e60061_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/7e3cf5_6b75d4337fa349ab8f68319c106c2f1b_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/7e3cf5_092fc2cb94174d0f8871c3f07e65b332_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/7e3cf5_857f08c259f947e89e3eece2f2c9d5dd_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/7e3cf5_b3d9e01ad3004e699c1007c3b0ccbe01_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/7e3cf5_d5ed39e3c1af4c48b8b23b1296e59aa3_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/7e3cf5_e2cdfd60e7f2481ea5725dbd7ade09b8_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/7e3cf5_fde246a2e44a4819a264b40a928f9044_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/910d60_2a43d765e03d4e83a27afbe0aaa1ec3e_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/910d60_4bb2b3690ef749a3bd20765fa0b91879_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/910d60_7b1bd5c651f94fb4bb7db287ca7aed93_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
       </div>
       <div class="col">
         <div class="card shadow-sm">
-          <!-- <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
           <img src="../assets/img/programme/910d60_f05eaada521c49f8b690defd16fb903f_mv2.webp" alt="" srcset="">
           <div class="card-body"></div>
         </div>
@@ -362,7 +318,6 @@
                 La prochaine promotion
                 débutera en 
               </p>
-              <!-- <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button> -->
             </div>
           </div>
         </div>
@@ -395,7 +350,6 @@
       <div class="mb-3">
         <label for="" class="form-label">Genre</label>
         <select class="form-select" name="genre">
-          <!-- <option>Veuillez selectionner</option> -->
           <option value="homme">Homme</option>
           <option value="femme">Femme</option>
         </select>
